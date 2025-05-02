@@ -3,5 +3,7 @@ Either input SGML file or XML file in a batch.
 Other files are in csv format.   
 It extracts specific datas that it was trained for. Those datas are written in sgml or xml file with tags format.   
 After extraction, it converts those data into tables format in excel. All additional calcuation is implemented during the converion process.  
-The final product is an excel file with multiple sheet.
+The final product is an excel file with multiple sheets.
+This project requires understanding data structure of SGML and XML files and finding only desired datas.   
+The most challenging part of the project is understanding the data structure. It was accomplished by breaking it into multiple sections so that the data structure became smaller to understand.
 
